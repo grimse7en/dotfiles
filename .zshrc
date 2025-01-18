@@ -1,4 +1,4 @@
-PROMPT="%f%F{blue}%B%~%b%f
-%B%F{red}  λ%f%b "
+PROMPT="%f%F{yellow}%B%~%b%f
+%B%F{yellow}  λ%f%b "
 
 precmd() { print "" }
